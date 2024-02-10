@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samarthagrawal1804@gmail.com**
 
-- ⚡ Fun fact **Self learned Developer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
