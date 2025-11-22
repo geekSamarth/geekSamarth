@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Samarth Goyal</h1>
-<h3 align="center">A Frontend Developer from India</h3>
+<h3 align="center">A Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeksamarth&label=Profile%20views&color=0e75b6&style=flat" alt="geeksamarth" /> </p>
 
-- I’m currently learning **NEXT.JS**
+- I’m currently learning **Node.JS**
 
-- I'm looking to collaborate on **Frontend Development**
+- I'm looking to collaborate on **Fullstack Development**
 
 - 👨‍💻 All of my projects are available at [https://samarth1.vercel.app/](https://samarth1.vercel.app/)
 
-- Ask me about **React.js and C++**
+- Ask me about **React.js and Node.js**
 
 - 📫 How to reach me **samarthagrawal1804@gmail.com**
 
